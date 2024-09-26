@@ -33,5 +33,8 @@ Le projet comporte les fichiers et dossiers suivants :
 
 ## Remarques
 
-N'hésitez pas à explorer et à modifier les paramètres de la simulation pour observer comment cela influence les résultats. Pour toute question, vous pouvez contacter vos professeurs mentionnés ci-dessus.
+N'hésitez pas à explorer et à modifier les paramètres de la simulation pour observer comment cela influence les résultats.
+
+**ALOUI Ghaieth**  
+Étudiant en Mathématiques Appliquées et Modélisation, POLYTECH Nice Sophia - Université Côte d'Azur
 
