@@ -16,7 +16,7 @@ Le projet comporte les fichiers et dossiers suivants :
 
 - Le code Python `Main.py` a été réalisé avec l'aide de mon professeur **Vincent Vadez**.
   
-- Le code MATLAB a été développé sous la supervision de **Cédric Boulbe**.
+- Le code MATLAB a été développé sous la supervision de mon professeur **Cédric Boulbe**.
 
 ## Instructions pour l'Utilisation
 
